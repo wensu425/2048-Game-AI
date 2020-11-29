@@ -1,6 +1,7 @@
 # 2048 Game & AI player implemented in Python
 
-The objective of the game slide numbered tiles on a grid to combine them to create a tile with the number 2048. The original game is written using Javascript and CSS but my version is implemented in Python. The game also has AI player that can play the game for you. [Demo](./src/demo.gif)
+The objective of the game slide numbered tiles on a grid to combine them to create a tile with the number 2048. The original game is written using Javascript and CSS but my version is implemented in Python. The game also has AI player that can play the game for you.   
+![Demo](./src/demo.gif)
 
 ## Install The Game
 1. git clone https://github.com/wensu425/2048-Game-AI.git
